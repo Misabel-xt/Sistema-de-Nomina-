@@ -4,7 +4,7 @@ import application.data.PayrollData;
 import application.factory.PayrollCalculatorRegistry;
 import application.model.EmployeeRecord;
 import application.repository.EmployeeRepository;
-import domain.exceptions.EmployeeNotFoundException;
+import application.exception.EmployeeNotFoundException;
 import domain.model.Employee;
 import domain.service.PayrollCalculator;
 import domain.vo.Payroll;
