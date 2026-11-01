@@ -1,4 +1,4 @@
-package application.model;
+package application.repository;
 
 import application.model.EmployeeRecord;
 import java.util.List;
